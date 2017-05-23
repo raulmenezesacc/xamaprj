@@ -1,0 +1,17 @@
+{
+    "projectName": "AccSulaHml",
+    "username": "diego.jorge.lacerda@accenture.com.acchml2",
+    "id": "816547c0-3417-11e7-b710-a72ebd2b1980",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://sulamerica--ACCHML2.cs43.my.salesforce.com",
+    "workspace": "C:\\Users\\diego.jorge.lacerda\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

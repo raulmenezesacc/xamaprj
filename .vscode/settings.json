@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "vsforce.organization.username": "diego.jorge.lacerda@accenture.com.acchml2",
+    "vsforce.organization.password": "Di3goJ0rg3",
+    "vsforce.organization.securityToken": "ZBs1rmap6lOYTvDrH68tiVOBE",
+    "vsforce.organization.loginUrl": "https://test.salesforce.com/"
+}
