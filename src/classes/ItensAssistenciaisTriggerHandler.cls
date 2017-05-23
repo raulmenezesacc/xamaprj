@@ -5,7 +5,8 @@ public class gitTriggerHandller {
 public static void beforeInsert(List<iItemGit> listNewItem){
         
 		
-System.debug('Lista de git itensjkshfjjjj: ' + listNewItem);
+
+System.debug('Lista de git itensjkshhhfj: ' + listNewItem);
        
     
 }
